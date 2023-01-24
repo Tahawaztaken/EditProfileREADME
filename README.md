@@ -31,7 +31,3 @@ Student. Developer. 3D Designer.
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/YungTayTay#1932" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/tahawaztaken" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/syed-faisal-627b821b7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<a href="https://github.com/tahawaztaken" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahawaztaken&langs_count=10&title_color=22c55e&text_color=14b8a6&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
