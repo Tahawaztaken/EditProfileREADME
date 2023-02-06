@@ -8,7 +8,7 @@ Student. Developer. 3D Designer.
 * ✉️  You can contact me at [syedtahafaisal1@gmail.com](mailto:syedtahafaisal1@gmail.com)
 * 🧠  I'm learning three.js & tensorflow.
 * 🤝  I'm open to collaborating on machine learning projects.
-* ⚡  Yesterday's code is a mystery.
+* ⚡  If it compiles, push it.
 
 ### Skills
 
